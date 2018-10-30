@@ -6,7 +6,7 @@
 # Command format: Instruction [arguments / command] ..
  
 # 1、第一行必须指定 基础镜像信息
-FROM mycentos
+FROM chen0625/mycentos
  
 # 2、维护者信息
 MAINTAINER chen0625 wchen0625@163.com
